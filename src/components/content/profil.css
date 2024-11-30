@@ -1,0 +1,63 @@
+.div{
+    display: flex;
+    align-items: normal;
+  }
+h3{
+    color: rgb(0, 183, 255);
+    font-weight: bolder;
+}
+.bonj{
+    text-align: center;
+}
+.container{
+    display: flex;
+   
+}
+.card{
+    background-color: rgb(159, 189, 189);
+    margin-bottom: 50px;
+}
+.carte1{
+    width: 70%;
+    height: 40%;
+    margin-left: 20%;
+    margin-top: 5%;
+    
+    margin-bottom: 5%;
+}
+.card-body{
+    background-color: rgb(179, 238, 238);
+}
+  .carte{
+    width: max-content;
+    height: 40%;
+    margin-left: 20px;
+    margin-top: 35%;
+    margin-bottom: 10%;
+    
+  }
+  .p1{
+    width: max-content;
+    margin-left: 48%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+    
+  }
+.prix{
+    font-weight:bold;
+}
+#pr{
+border-radius: 59%;
+width: 50%;
+margin-top: 20px;
+margin-bottom: 20px;
+display: flex;
+margin-left: 90px;
+}
+.card-title{
+    text-align: center;
+}
+.span{
+    font-weight: bold;
+}
